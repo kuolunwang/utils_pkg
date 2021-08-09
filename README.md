@@ -18,7 +18,7 @@ utils_pkg repo including:
 ## Clone this repo
 
 ```
-    git clone --recursive git@github.com:kuolunwang/utils_pkg.git
+    git clone --recursive git@github.com:kuolunwang/utils_pkg.git && git checkout melodic
 ```
 
 ## Notice
