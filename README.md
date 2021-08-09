@@ -4,7 +4,7 @@ This is an utils repo support some useful ros packages on noetic.
 
 utils_pkg repo including:
 * apriltags_ros
-* realsense-ros for librealsense 2.36.0
+* realsense-ros for librealsense 2.48.0
 * vision_opencv
 
 ## ROS Distro Support
